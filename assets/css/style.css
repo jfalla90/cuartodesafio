@@ -1,0 +1,42 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-cuppon {
+    background-color: #28a745;
+}
+.card img {
+    height: 15em;
+}
+h4{
+    text-align: center;
+}
+.first-price{
+    color: #707070;
+    font-weight: 300;  
+}
+
+.second-price{
+    color: #28a745;
+    font-weight: 500;
+}
+
+.card-price{
+    gap: 20px;
+}
+
+.card-title{
+    font-weight: 400;
+}
+.card-text {
+    font-weight: 300;
+    color: #707070;
+}
+footer {
+    text-align: center;
+}
+button{
+    font-weight: 500;
+}
